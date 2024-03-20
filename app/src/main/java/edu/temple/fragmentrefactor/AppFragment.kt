@@ -31,7 +31,6 @@ class AppFragment : Fragment() {
                 "Please enter your name"
             }
         }
-
         return view
     }
 }
